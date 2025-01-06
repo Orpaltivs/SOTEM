@@ -7,7 +7,10 @@ The goal of the project is to create a platform that will provide users with a u
 
 ## Basic functions
 - An educational platform for studying blockchain technologies.
-- Integration with AI-agent Verse and GTP to automate processes. - Tokenized ecosystem that provides social interaction of users. - Ability to earn passive income through participation in the platform. - Using tokens as a means of interaction and monetization within the project.
+- Integration with AI-agent Verse and GTP to automate processes.
+- Tokenized ecosystem that provides social interaction of users.
+- Ability to earn passive income through participation in the platform.
+- Using tokens as a means of interaction and monetization within the project.
 
 ## The purpose of the project
 1. To combine the educational process with blockchain technologies to increase the competencies of users.

@@ -5,6 +5,10 @@ A tokenized educational project using AI agents Verse and GTP.
 This is a tokenized educational project that combines education, innovative technologies, social interaction and the opportunity to receive passive income.
 The goal of the project is to create a platform that will provide users with a useful experience, help master blockchain technologies, promote interaction in the community and provide financial benefits.
 
+## Basic functions
+- An educational platform for studying blockchain technologies.
+- Integration with AI-agent Verse and GTP to automate processes. - Tokenized ecosystem that provides social interaction of users. - Ability to earn passive income through participation in the platform. - Using tokens as a means of interaction and monetization within the project.
+
 ## The purpose of the project
 1. To combine the educational process with blockchain technologies to increase the competencies of users.
 2. To provide an innovative experience of using AI and automation in education.

@@ -1,5 +1,7 @@
 # SOTEM
 Tokenized educational project using AI agents Verse and GTP.
+## Description
+This is a tokenized educational project that combines education, innovative technologies, social interaction and the opportunity to receive passive income. The goal of the project is to create a platform that will provide users with a useful experience, help master blockchain technologies, promote interaction in the community and provide financial benefits.
 
 ## Usage example
 Application of project tools to create educational content:

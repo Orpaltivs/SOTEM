@@ -1,6 +1,12 @@
 # SOTEM
 Tokenized educational project using AI agents Verse and GTP.
 
+## Usage example
+Application of project tools to create educational content:
+1. AI-agent Verse helps to generate images according to given parameters.
+2. GTP answers complex questions by providing a base for textual content.
+3. Content is published on a social network to expand community and interaction.
+
 # How the Content is Created
 The content creation process using the project's tools:
 1. Image Creation:
